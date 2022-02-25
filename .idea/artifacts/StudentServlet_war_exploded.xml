@@ -5,7 +5,7 @@
       <element id="javaee-facet-resources" facet="StudentServlet/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="StudentServlet" />
+          <element id="module-output" name="StudentSystem" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="xalan" />
