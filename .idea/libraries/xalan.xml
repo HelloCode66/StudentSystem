@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="xalan">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/saxpath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/sax.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jaxen-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jaxp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
