@@ -1,5 +1,5 @@
 # StudentSystem
-学习Java Web入门时写的一个学生管理系统
+学习Java Web入门时写的一个学生管理系统<br>
 仅有添加学生和查看学生功能
 使用 Tomcat作为web应用服务器，采用了Servlet、jsp、EL表达式和JSTL完成
 涵盖了cookie、session、请求和响应等操作
